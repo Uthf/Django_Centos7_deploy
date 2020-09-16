@@ -1,0 +1,13 @@
+
+__pycache__/
+*/__pycache__/
+.pyc
+*.pyc
+
+
+prod_settings.py
+local_settings.py
+
+env
+
+db.sqlite3
